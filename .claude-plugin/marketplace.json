@@ -1,0 +1,32 @@
+{
+  "name": "claude-code-plugins-marketplace",
+  "owner": {
+    "name": "ingpoc",
+    "email": "32293006+ingpoc@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "interactive-architecture-agent",
+      "source": "./plugins/interactive-architecture-agent",
+      "description": "Expert architectural review through interactive questioning. Never assumes; always asks clarifying questions.",
+      "version": "1.0.0",
+      "author": { "name": "ingpoc" },
+      "category": "ai-assistants",
+      "tags": ["architecture", "interactive", "mvp"]
+    },
+    {
+      "name": "web-app-testing-agent",
+      "source": "./plugins/web-app-testing-agent",
+      "description": "Autonomous web app testing with server management, E2E, performance and security checks, plus intelligent reporting.",
+      "version": "1.0.0",
+      "author": { "name": "ingpoc" },
+      "category": "testing-qa",
+      "tags": ["testing", "automation", "e2e", "performance", "security"]
+    }
+  ],
+  "metadata": {
+    "description": "Marketplace of Claude Code plugins by ingpoc",
+    "version": "1.0.0",
+    "pluginRoot": "./"
+  }
+}
