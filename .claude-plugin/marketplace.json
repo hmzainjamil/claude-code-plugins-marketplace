@@ -22,6 +22,19 @@
       "author": { "name": "ingpoc" },
       "category": "testing-qa",
       "tags": ["testing", "automation", "e2e", "performance", "security"]
+    },
+    {
+      "name": "hermes-tweet",
+      "source": {
+        "source": "github",
+        "repo": "Xquik-dev/hermes-tweet",
+        "ref": "6a209111bc08b577318ad2e66a719ea1b998a8ee"
+      },
+      "description": "Native Hermes Agent X/Twitter automation plugin with read-first workflows and approval-gated posting actions.",
+      "version": "0.1.6",
+      "author": { "name": "Xquik-dev" },
+      "category": "web-integration",
+      "tags": ["hermes-agent", "twitter", "x", "social-media", "automation"]
     }
   ],
   "metadata": {

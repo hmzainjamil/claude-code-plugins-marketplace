@@ -39,7 +39,7 @@ Add your own plugin in <10 minutes using `templates/plugin-template/` — a work
 
 | | What you get |
 |---|---|
-| **Plugins shipped** | 2 flagship + 1 template |
+| **Plugins shipped** | 3 plugins + 1 template |
 | **Marketplace manifest** | .claude-plugin/marketplace.json |
 | **Plugin spec** | docs/plugin-development.md |
 | **Best practices** | docs/best-practices.md |
@@ -62,6 +62,7 @@ Add your own plugin in <10 minutes using `templates/plugin-template/` — a work
 | **Code explorer** | `plugins/interactive-architecture-agent/agents/code-explorer.md` | Maps codebase structure pre-implementation · [Source](https://github.com/hmzainjamil/claude-code-plugins-marketplace/blob/main/plugins/interactive-architecture-agent/agents/code-explorer.md) |
 | **Server manager** | `plugins/web-app-testing-agent/agents/server-manager.md` | Lifecycle: start/stop/restart dev servers · [Source](https://github.com/hmzainjamil/claude-code-plugins-marketplace/blob/main/plugins/web-app-testing-agent/agents/server-manager.md) |
 | **Test reporter** | `plugins/web-app-testing-agent/agents/test-reporter.md` | Pretty E2E reports · [Source](https://github.com/hmzainjamil/claude-code-plugins-marketplace/blob/main/plugins/web-app-testing-agent/agents/test-reporter.md) |
+| **Hermes Tweet** | `Xquik-dev/hermes-tweet` | Native Hermes Agent X/Twitter automation plugin with read-first workflows and approval-gated posting · [Source](https://github.com/Xquik-dev/hermes-tweet) |
 | **Plugin template** | `templates/plugin-template/` | Working skeleton for new plugins · [Source](https://github.com/hmzainjamil/claude-code-plugins-marketplace/blob/main/templates/plugin-template/) |
 | **API reference** | `docs/api-reference.md` | Plugin SDK contract · [Source](https://github.com/hmzainjamil/claude-code-plugins-marketplace/blob/main/docs/api-reference.md) |
 | **Best practices** | `docs/best-practices.md` | What to do / not do in plugin code · [Source](https://github.com/hmzainjamil/claude-code-plugins-marketplace/blob/main/docs/best-practices.md) |
@@ -74,6 +75,7 @@ Add your own plugin in <10 minutes using `templates/plugin-template/` — a work
 | **Install plugin** | `/plugins install NAME` | One-line install from marketplace |
 | **Architecture agent** | `interactive-architecture-agent` | Clarifies before coding — saves rewrites |
 | **Web tester** | `web-app-testing-agent` | Full E2E with auto server lifecycle |
+| **Hermes Tweet** | `hermes-tweet` | Hermes Agent X/Twitter read workflows and approval-gated posting |
 | **Template** | `templates/plugin-template/` | Cargo-cult a working plugin |
 | **Submit plugin** | `PR to .claude-plugin/marketplace.json` | Auto-validated on PR |
 
