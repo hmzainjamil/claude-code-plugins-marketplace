@@ -2,7 +2,7 @@
 
 > Autonomous web application testing agent that handles server management, comprehensive testing, and intelligent reporting
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue)](.) [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE) [![Claude Code](https://img.shields.io/badge/claude--code-compatible-purple)](.)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)](.) [![License](https://img.shields.io/badge/license-MIT-green)](../../LICENSE) [![Claude Code](https://img.shields.io/badge/claude--code-compatible-purple)](.)
 
 ## 🎯 Problem Solved
 
@@ -362,7 +362,7 @@ See the main [Contributing Guidelines](../../CONTRIBUTING.md) for the marketplac
 
 ## 📄 License
 
-MIT License - see [LICENSE](LICENSE) file.
+MIT License - see [root LICENSE](../../LICENSE) file.
 
 ## 🔗 Links
 
