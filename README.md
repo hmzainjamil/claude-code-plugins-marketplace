@@ -10,6 +10,7 @@ This repository contains a Claude Code marketplace manifest with two plugin entr
 | [plugins/interactive-architecture-agent/.claude-plugin/plugin.json](plugins/interactive-architecture-agent/.claude-plugin/plugin.json) | Architecture plugin metadata |
 | [plugins/web-app-testing-agent/.claude-plugin/plugin.json](plugins/web-app-testing-agent/.claude-plugin/plugin.json) | Web testing plugin metadata |
 | [LICENSE](LICENSE) | Root MIT license |
+| [Plugin template README](templates/plugin-template/README.md) | Template documentation, separate from the two marketplace entries |
 
 Use Claude Code's current plugin documentation to add and use this marketplace. Review the selected plugin's full instructions, scripts, permissions, prerequisites, and effects first. Do not assume that listing a plugin means it has been tested or is safe for every project.
 
